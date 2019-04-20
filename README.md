@@ -1,5 +1,5 @@
 # Feedreader - automated test suite
-The goal of this project is to write a automated test suite based on [Jasmine](https://jasmine.github.io/).
+The goal of this project is to write an automated test suite based on [Jasmine](https://jasmine.github.io/).
 
 ## Getting Started
 
